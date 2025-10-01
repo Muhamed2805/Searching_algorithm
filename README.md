@@ -1,4 +1,4 @@
-# Searching_algorithm# Searching Algorithm (C# Console App)
+# Searching Algorithm (C# Console App)
 
 Ovaj projekt implementira i upoređuje različite algoritme pretrage u C#.  
 Korisnik može da bira između **takmičenja algoritama** (mjerenje vremena izvršavanja) i **korisničke pretrage** (ručni unos JMBG-a i izbor algoritma).
@@ -19,7 +19,7 @@ Implementirani su sljedeći algoritmi:
 
 ---
 
-## ▶️ Pokretanje projekta
+##  Pokretanje projekta
 
 1. Instaliraj [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download) (ili noviju verziju).
 2. Kloniraj repozitorij:
